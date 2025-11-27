@@ -13,4 +13,4 @@ Smart-home style environmental control within the lab
 
 Data collection and monitoring for improved lab management
 
-Multimedia support, such as playing music when needed
+Multimedia support, such as weather updats, multiple timer setup even playing music when needed
