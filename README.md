@@ -1,2 +1,16 @@
 # ELA (Electronics Lab Assistant) 
-This is my thesis topics where I am developing an Ai based Electronics Lab assistant which able to mantains several tasks of our lab like communicating with studens with is voice and vision feature, mantains lab components data and control access, send email, take note and schedule appointemnt, instant new face and items learning, smart home feature and data collection and play music.  
+My thesis focuses on developing an AI-powered Electronics Laboratory Assistant capable of managing a wide range of lab-related tasks. The system integrates advanced voice and vision capabilities to interact naturally with students and support laboratory operations. Key functionalities include:
+
+Managing and tracking electronic components with secure access control
+
+Communicating with students through speech and visual recognition
+
+Sending emails, taking notes, and scheduling appointments autonomously
+
+Real-time learning of new faces and laboratory items
+
+Smart-home style environmental control within the lab
+
+Data collection and monitoring for improved lab management
+
+Multimedia support, such as playing music when needed
