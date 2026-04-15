@@ -1,6 +1,18 @@
 # ELA (Electronics Lab Assistant) 
 
 
+https://github.com/user-attachments/assets/034c135e-238a-4549-9863-e4a8ceb2e60d
+
+
+
+
+
+
+
+
+
+
+
 
 
 
