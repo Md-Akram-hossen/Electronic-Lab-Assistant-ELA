@@ -148,7 +148,7 @@ CUSTOM_RESPONSES = {
     "hello how are you": " I have no emotion but i would be happy to make you happy.",
     "i want to return": " Please say the full command with component name like i want to return Arduino",
     "what can you do": "I can answer your questions, recognize speech, generate responses, and even describe images!",
-    "tell us about you": "My name is ELLA, I am an Electronics Lab Assistant humanoid Robot. I can help you to borow and return lab components form our lab. I can learn and recognize face and object. I can answer your any types of question, add, review and remove calender event, note, and email. Provide you weather update, set and cancel multiple timer, I also can see and describe images, integrate smart Lab environment, even play music!",
+    "tell us about you": "My name is ELA, I am an Electronics Lab Assistant humanoid Robot. I can help you to borow and return lab components form our lab. I can learn and recognize face and object. I can answer your any types of question, add, review and remove calender event, note, and email. Provide you weather update, set and cancel multiple timer, I also can see and describe images, integrate smart Lab environment, even play music!",
     "activate": "Hi there, it is glad to hear from you. I am ready to assist you and make your day brighter.",
     "do you know professor ali": "Yes, i know professor ali Hayek, He is the best professor in Hshl and even one of a reputable professor in the world. He is an expert Harderware engineer and most popular prefessor among his students and his fields. "
 }
