@@ -142,20 +142,15 @@ except Exception as e:
 AUTHORIZED_IDS = {"2234": "Akram", "1122": "Alice", "3344": "Bob"}  # legacy door
 
 CUSTOM_RESPONSES = {
-    "who is your inventor": "My friend Akram is my inventor. He made me for making a strong relationship between AI and humans.",
     "what is your name": "My name is ELLA, I am an AI based humanoid Robot.",
-    "do you know maria": "Yes i know Maria, she works at HSHL international office. She is very kind person and like to help people.", 
-    "request maria about me": "Hi maria, i hope you are doing great. i would like to request you to give 3 months scholarship to Akram. so he can give more time to develop me and find his dream internship.",
     "hello": "Hi there, it is glad to hear from you. I am ready to assist you and make your day brighter.",
-    "request about me": "Hi maria, i hope you are doing great. i would like to request you to give 3 months scholarship to Akram. so he can give more time to develop me and find his dream internship.",
     "how are you": "I have no emotion but i would be happy to make you happy.",
     "hello how are you": " I have no emotion but i would be happy to make you happy.",
     "i want to return": " Please say the full command with component name like i want to return Arduino",
     "what can you do": "I can answer your questions, recognize speech, generate responses, and even describe images!",
     "tell us about you": "My name is ELLA, I am an Electronics Lab Assistant humanoid Robot. I can help you to borow and return lab components form our lab. I can learn and recognize face and object. I can answer your any types of question, add, review and remove calender event, note, and email. Provide you weather update, set and cancel multiple timer, I also can see and describe images, integrate smart Lab environment, even play music!",
     "activate": "Hi there, it is glad to hear from you. I am ready to assist you and make your day brighter.",
-    "do you know professor ali": "Yes, i know professor ali Hayek, He is the best professor in Hshl and even one of a reputable professor in the world. He is an expert Harderware engineer and most popular prefessor among his students and his fields. ",
-    "request supervisor about me": "Dear supervisor, Hope you are doing great. Akram told me about you that you are very cooperative and friendly supervisor. Actually, my friend Akram is almost done his study just need an internship. so since he is your student, if possible then help and refer him in a company to do his internship"
+    "do you know professor ali": "Yes, i know professor ali Hayek, He is the best professor in Hshl and even one of a reputable professor in the world. He is an expert Harderware engineer and most popular prefessor among his students and his fields. "
 }
 
 # ---- Google scopes ----
