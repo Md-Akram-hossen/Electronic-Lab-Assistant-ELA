@@ -142,7 +142,7 @@ except Exception as e:
 AUTHORIZED_IDS = {"2234": "Akram", "1122": "Alice", "3344": "Bob"}  # legacy door
 
 CUSTOM_RESPONSES = {
-    "what is your name": "My name is ELLA, I am an AI based humanoid Robot.",
+    "what is your name": "My name is ELA, I am an AI based humanoid Robot.",
     "hello": "Hi there, it is glad to hear from you. I am ready to assist you and make your day brighter.",
     "how are you": "I have no emotion but i would be happy to make you happy.",
     "hello how are you": " I have no emotion but i would be happy to make you happy.",
